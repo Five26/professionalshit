@@ -19,12 +19,13 @@ _A place to keep articles, how-tos, etc_
 
 ### Infrastructure
 
-#### Sample
+#### Terraform
 
 ##### Resources
-* [LMGTFY](https://www.lmgtfy.com)
+* [Terraform](https://www.terraform.io)
 
 ##### Articles
+* [Terraform best practices for beginners](https://upcloud.com/community/stories/terraform-best-practices-beginners/)
 
 ##### Repos
 
