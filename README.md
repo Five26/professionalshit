@@ -13,6 +13,7 @@ _A place to keep articles, how-tos, etc_
 * [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 
 ##### Articles
+* [10 Amazing articles on Python](https://hackernoon.com/10-amazing-articles-on-python-programming-and-machine-learning-week-3-a425a9159bff)
 
 ##### Repos
 
